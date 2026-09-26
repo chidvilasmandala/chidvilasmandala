@@ -1,6 +1,6 @@
 Hey, I'm Chidvilas Mandala
 
-AI & Data Science Student | Builder | Hackathon Enthusiast
+AI & Data Science Student | Building AI, Data & Web Projects
 
 I'm a B.Tech student specializing in Artificial Intelligence & Data Science, interested in building practical products that solve real-world problems.
 
